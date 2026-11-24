@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+*.db
+*.joblib
+.pytest_cache/
+# Node
+node_modules/
+dist/
+# Editor
+.vscode/
+.DS_Store
